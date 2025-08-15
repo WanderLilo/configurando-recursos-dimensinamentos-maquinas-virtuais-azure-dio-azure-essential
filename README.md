@@ -32,8 +32,8 @@ Em regras de porta de entrada
 ### Aba Disco
 
 Em disco do SO, informe:
--Tamanho do disco do SO
--Excluir com VM - marque para que quando excluir a maquina virtual o disco seja excluído o disco também.
+- Tamanho do disco do SO
+- Excluir com VM - marque para que quando excluir a maquina virtual o disco seja excluído o disco também.
 
 Em disco de dados
   Temos a possibilidade de criar e anexar um novo disco ou anexar um disco existente.
@@ -49,6 +49,17 @@ Em interface de rede, informe:
 
 
 ### Aba Gerenciamento
+Opção para fazer desligamento automatico:
+- Habilitar o desligamento automático
+- Hora desligamento automático
+
+Opção para Habilitar o Backup
+
+
+### Aba Monitoramento
+Opção Habilitar Alertas
+
+
 
   
 
